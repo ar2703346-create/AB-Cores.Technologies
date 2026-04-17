@@ -1,6 +1,6 @@
 # 🚀 AB Cores.Technologies
 
-> ⚡ Building **high-performance**, **scalable**, and **production-grade** applications.
+>  Building **high-performance**, **scalable**, and **production-grade** applications.
 
 ---
 
